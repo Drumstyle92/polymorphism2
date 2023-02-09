@@ -1,5 +1,5 @@
 /**
- * @author Drumstyele92
+ * @author Drumstyle92
  * class that contains the core of the program.
  */
 public class Zoo {
@@ -7,7 +7,7 @@ public class Zoo {
      *
      * @param args main parameter.
      * main method which contains 3 class objects and methods to show various class sounds.
-     *             
+     *
      */
     public static void main(String[] args) {
         // creation of objects
@@ -21,8 +21,5 @@ public class Zoo {
         lion.animalSound();
         System.out.println("--------------------------------------");
         cow.animalSound();
-
-
-
     }
 }

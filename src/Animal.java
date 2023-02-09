@@ -1,5 +1,5 @@
 /**
- * @author Drumstyele92
+ * @author Drumstyle92
  * parent class with characteristics and methods on animals.
  */
 public class Animal {

@@ -1,5 +1,5 @@
 /**
- * @author Drumstyele92
+ * @author Drumstyle92
  * animal subclass
  */
 public class Cow extends Animal{
